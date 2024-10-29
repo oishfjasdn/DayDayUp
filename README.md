@@ -1,6 +1,5 @@
-# DayDayUp
-每天至少学一个技能
+# ***DayDayup***
 
-study at least one skill per day
+***每天至少学会一项技能or推进考研进度or推进web开发进度***
 
-day1——springsecurity
+> ***day1——springsecurity***
