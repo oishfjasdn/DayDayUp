@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/study
+    username: root
+    password: xjw223312
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis-plus:
+  global-config:
+    id-type: auto
